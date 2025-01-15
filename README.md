@@ -1,4 +1,5 @@
 AI Trailer Generator
+
 This project leverages advanced AI technologies to automatically generate engaging trailers from longer video files. It is designed to work with various video content such as movies, presentations, and tours.
 
 Features
